@@ -1,0 +1,13 @@
+twitter:
+  stream-api-url: https://stream.twitter.com/1.1/statuses/filter.json
+  consumer-key: RLSrphihyR4G2UxvA0XBkLAdl
+  consumer-secret: FTz2KcP1y3pcLw0XXMX5Jy3GTobqUweITIFy4QefullmpPnKm4
+
+service:
+  hashtag: bieber
+  max-items: 100
+  max-duration-in-seconds: 30
+
+spring:
+  main:
+    web-application-type: none
